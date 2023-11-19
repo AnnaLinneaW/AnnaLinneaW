@@ -8,17 +8,13 @@
 School projects: 
 -----------------------------------------------
 
-https://annalinneaw.github.io/Ghostbusters/
-
-https://github.com/AnnaLinneaW/Ghostbusters/
-
-------------------------------------------------
-
 https://hilarious-khapse-bbe817.netlify.app/cards
 
 https://github.com/AnnaLinneaW/WALL-E/
 
+
 ------------------------------------------------
+
 
 https://annalinneaw.github.io/teamC-weatherApp/
 
@@ -27,6 +23,12 @@ https://github.com/AnnaLinneaW/teamC-weatherApp
 ------------------------------------------------
 
 https://annalinneaw.github.io/Bankenbanken/
+
+------------------------------------------------
+
+https://annalinneaw.github.io/Ghostbusters/
+
+https://github.com/AnnaLinneaW/Ghostbusters/
 
 ------------------------------------------------
 https://annalinneaw.github.io/StarWars/
