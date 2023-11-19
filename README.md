@@ -24,6 +24,9 @@ https://github.com/AnnaLinneaW/teamC-weatherApp
 
 ------------------------------------------------
 
+https://annalinneaw.github.io/Bankenbanken/
+
+------------------------------------------------
 https://annalinneaw.github.io/StarWars/
 
 https://github.com/AnnaLinneaW/StarWars/
