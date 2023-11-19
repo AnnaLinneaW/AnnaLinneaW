@@ -7,6 +7,9 @@
 
 School projects: 
 -----------------------------------------------
+# Wall-E E-wallet
+
+Welcome to Wall-E E-wallet, a user-friendly digital wallet application.
 
 https://hilarious-khapse-bbe817.netlify.app/cards
 
@@ -14,7 +17,9 @@ https://github.com/AnnaLinneaW/WALL-E/
 
 
 ------------------------------------------------
+#Weather App
 
+Group C developed a weather app emphasizing user-friendliness and real-time information.
 
 https://annalinneaw.github.io/teamC-weatherApp/
 
