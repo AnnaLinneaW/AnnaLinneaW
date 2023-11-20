@@ -12,10 +12,10 @@ School projects:
 Welcome to Wall-E E-wallet, a user-friendly digital wallet application.
 
 
-[Wall-E](https://hilarious-khapse-bbe817.netlify.app/cards)
+[Wall-E Application](https://hilarious-khapse-bbe817.netlify.app/cards)
 
 
-[Kod](https://github.com/AnnaLinneaW/WALL-E/)
+[Wall-E Code](https://github.com/AnnaLinneaW/WALL-E/)
 
 
 ------------------------------------------------
@@ -23,24 +23,25 @@ Welcome to Wall-E E-wallet, a user-friendly digital wallet application.
 
 Group C developed a weather app emphasizing user-friendliness and real-time information.
 
-https://annalinneaw.github.io/teamC-weatherApp/
+[Weather App](https://annalinneaw.github.io/teamC-weatherApp/)
 
-https://github.com/AnnaLinneaW/teamC-weatherApp
-
-------------------------------------------------
-
-https://annalinneaw.github.io/Bankenbanken/
+[Weather Code](https://github.com/AnnaLinneaW/teamC-weatherApp)
 
 ------------------------------------------------
 
-https://annalinneaw.github.io/Ghostbusters/
-
-https://github.com/AnnaLinneaW/Ghostbusters/
+[Bank Application](https://annalinneaw.github.io/Bankenbanken/)
 
 ------------------------------------------------
-https://annalinneaw.github.io/StarWars/
 
-https://github.com/AnnaLinneaW/StarWars/
+[Ghostbusters site](https://annalinneaw.github.io/Ghostbusters/)
+
+[Ghostbusters html + css](https://github.com/AnnaLinneaW/Ghostbusters/)
+
+------------------------------------------------
+
+[Star Wars site](https://annalinneaw.github.io/StarWars/)
+
+[Star Wars Code](https://github.com/AnnaLinneaW/StarWars/)
 
 ------------------------------------------------
 
