@@ -11,9 +11,11 @@ School projects:
 
 Welcome to Wall-E E-wallet, a user-friendly digital wallet application.
 
-https://hilarious-khapse-bbe817.netlify.app/cards
+[Wall-E ]
+(https://hilarious-khapse-bbe817.netlify.app/cards)
 
-https://github.com/AnnaLinneaW/WALL-E/
+[Kod]
+(https://github.com/AnnaLinneaW/WALL-E/)
 
 
 ------------------------------------------------
